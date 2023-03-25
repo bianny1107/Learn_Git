@@ -1,2 +1,2 @@
 # Learn_Git
-## Bianny
+## Introduccion a los comandos de git
